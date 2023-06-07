@@ -1,0 +1,6 @@
+https://hub.docker.com/r/vladislavsleep/hellserver
+
+КОМАНДЫ:
+docker build -t vladislavsleep/hallserver .
+docker login
+docker push vladislavsleep/hallserver:latest
